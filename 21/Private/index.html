@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br" ng-app="module">
+<head>
+	<meta charset="UTF-8" http-equiv="refresh" content="8">
+	<title>Aula 21</title>
+	<script src="//code.angularjs.org/snapshot-stable/angular.min.js"></script>
+	<script src="app.js"></script>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+<body>
+	<div ng-controller="controller">
+		<h1>Entre com nome para link do instagram</h1>
+		<input type="text" ng-model="nome">
+		<h1>www.instagram.com/{{filtrado()}}</h1>
+		<div class="alert" ng-class="{ 'alert-warning' : nome.length < caracteres ,'alert-danger' : nome.length > caracteres }"> 
+			<div ng-if="nome.length > caracteres">Link muito grande!!!</div>
+			<div ng-if="nome.length < caracteres">Link muito pequeno!!!</div>
+		</div>
+		<h3>
+			<ul>
+				<li ng-repeat="rule in rules">{{rule.rulename}}</li>
+			</ul>
+		</h3>
+	</div>
+</body>
+</html>
