@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br" ng-app="module">
+	<head>
+		<meta http-equiv="refresh" content="10">
+		
+
+		<!-- load bootstrap and fontawesome via CDN -->
+		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+
+		<script src="//code.angularjs.org/snapshot-stable/angular.min.js"></script>
+		<script src="app.js"></script>
+		<title>Aula 24</title>
+	</head>
+	<body>
+		<div ng-controller="controller">
+			www.instagram.com/<input type="text" ng-model="nome">
+
+			<div class="alert" ng-class="{
+				'alert-warning' : nome.length < 5
+				,'alert-danger' : nome.length > 5
+			}">
+				<div ng-if="nome.length > 5">Muito grande!!!</div>
+				<div ng-if="nome.length < 5">Muito pequeno!!!</div>
+			</div>
+			
+			<br>
+			<br>
+			
+			
+			<div>
+				<label>www.instagram.com/{{filtro()}}</label>
+			</div>
+
+			<div>
+			</div>
+
+
+			<hr>
+
+			<ul>
+				<li ng-repeat="rule in rules">{{rule.rulename}}</li>
+			</ul>
+			Adicione uma regra:
+			<input type="text" ng-model="newrule">
+			<a href="#" class="btn btn-default" ng-model="newrule" ng-click="addRule()">Add</a>
+		</div>
+	</body>
+</html>
