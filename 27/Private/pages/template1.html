@@ -1,0 +1,13 @@
+<div>
+    <label>www.instagram.com/<input type="text" ng-model="url"></label>
+    <br>
+    <label>www.instagram.com/{{filtro()}}</label>
+    <div class="alert" ng-class="{
+        'alert-danger': url.length < 5
+        ,'alert-warning': url.length > 5
+    }">
+        <div ng-if="url.length > 5">URL muito grande!!!</div>
+        <div ng-if="url.length < 5">URL muito pequeno!!!</div>
+    </div>
+    <hr>
+</div>
