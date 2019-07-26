@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br" ng-app="myapp">
+    <head>
+        <title>Aula 30</title>
+
+        <script src="https://code.angularjs.org/snapshot-stable/angular.min.js"></script>
+        <script src="https://code.angularjs.org/snapshot-stable/angular-route.min.js"></script>
+        <script src="config.js"></script>
+    </head>
+    <body>
+
+        <ul>
+            <li><a href="#!/">Home</a></li>
+            <li><a href="#!/primeiro">Upper Case</a></li>
+            <li><a href="#!/segundo">Lower Case</a></li>
+        </ul>
+
+        <hr>
+
+        <div>
+            <div ng-view></div>
+        </div>
+
+        <hr>
+
+    </body>
+</html>
