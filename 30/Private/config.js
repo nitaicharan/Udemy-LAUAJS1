@@ -17,6 +17,9 @@ var myapp = angular.module('myapp',['ngRoute']).config(function($routeProvider){
 
 myapp.controller('main',['$scope','main',function($scope,main){
     $scope.url = main.url;
+    $scope.$watch('url',function(){
+        main.url = $scope.url;
+    });
 }]);
 myapp.service('main',function(){
     this.url = 'Nitai Charan';
