@@ -1,3 +1,21 @@
+### Certificado
+![alt text](https://raw.githubusercontent.com/nitaicharan/Udemy-LearnAndUnderstandAngularJS/master/UC-Q7I5P61P.jpg )
+[Certificado url](http://ude.my/UC-Q7I5P61P)
+
+## Learn and Understand AngularJS
+Master AngularJS and the Javascript concepts behind it, design custom directives, and build a single page application.
+
+### What you'll learn
+- Learn fundamental Javascript concepts that power AngularJS.
+- Write quicker, better AngularJS code by discovering how AngularJS itself is built.
+- Become fluent in AngularJS terminology, such as dependency injection, services, directives, transclusion, and more.
+- Realize the power of dependency injection, and how AngularJS accomplishes it.
+- Design custom directives and save time and energy with easily reusable components.
+- Understand what a Single Page Application (SPA) is, and how they work.
+- Build a Single Page Application (SPA) in AngularJS.
+- Be the coder that explains AngularJS to everyone else, because you understand it better than anyone else.
+- Get new free lectures during 2015, keep up with the development of AngularJS 2.0, and get a MASSIVE discount on a future AngularJS 2.0 course in 2016!
+
 ### Requisitos
 - A browser and a text editor
 - Basic HTML and Javascript knowledge
@@ -38,3 +56,4 @@ Note: In this course you'll also get **downloadable source code**. You will ofte
 - Web developers and designers looking to learn AngularJS
 - Those who have researched AngularJS but still find it hard to understand
 - Developers and designers who have used jQuery but are tired of doing everything manually
+
