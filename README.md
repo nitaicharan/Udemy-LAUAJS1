@@ -1,59 +1,78 @@
-### Certificado
-![alt text](https://raw.githubusercontent.com/nitaicharan/Udemy-LearnAndUnderstandAngularJS/master/UC-Q7I5P61P.jpg )
-[Certificado url](http://ude.my/UC-Q7I5P61P)
+## Udemy-LAUAJS1
 
-## Learn and Understand AngularJS
-Master AngularJS and the Javascript concepts behind it, design custom directives, and build a single page application.
+<!-- PROJECT SHIELDS -->
 
-### What you'll learn
-- Learn fundamental Javascript concepts that power AngularJS.
-- Write quicker, better AngularJS code by discovering how AngularJS itself is built.
-- Become fluent in AngularJS terminology, such as dependency injection, services, directives, transclusion, and more.
-- Realize the power of dependency injection, and how AngularJS accomplishes it.
-- Design custom directives and save time and energy with easily reusable components.
-- Understand what a Single Page Application (SPA) is, and how they work.
-- Build a Single Page Application (SPA) in AngularJS.
-- Be the coder that explains AngularJS to everyone else, because you understand it better than anyone else.
-- Get new free lectures during 2015, keep up with the development of AngularJS 2.0, and get a MASSIVE discount on a future AngularJS 2.0 course in 2016!
+![Udemy][udemy-shield]
+![Angular][angular-shield]
+![TypeScript][typescript-shield]
+![HTML5][html5-shield]
+![CSS3][css3-shield]
+![Sass][sass-shield]
 
-### Requisitos
-- A browser and a text editor
-- Basic HTML and Javascript knowledge
+## About course
 
-### Descrição
-**Includes information on the next version - AngularJS 2.0!**
+This project was part of the Udemy course "Learn and Understand AngularJS" by Tarso Bessa.
 
-Knowing AngularJS can get you a job or improve the one you have. It's a skill that will put you more in demand in the modern web development industry, and make your web software life easier, that's why it's so popular and backed by Google.
+- [Course][course-url]
+- [Instructor][instructor-url]
+- [Certificate][certificate-url]
 
-This course will get you up and running quickly, and teach you the core knowledge you need to deeply understand and build AngularJS applications - and we'll build a single page application along the way.
+### Certificate
 
-We'll design **custom services**, build **custom directives**, understand **two-way binding**, design a weather forecast app as a **single page application**, and **lots more**. Both starter and finished source code is provided as we go.
+This certificate above verifies that [Nitai Charan][udemy-url] successfully completed the course [Learn and Understand AngularJS][course-url] on 08/03/2019 as taught by [Anthony Alicea][instructor-url] on Udemy. The certificate indicates the entire course was completed as validated by the student.
 
-***Reviews***
+<p align="center">
+  <img src="certificate.jpg">
+</p>
 
-*"Best course I have ever seen" "Best intro to AngularJS on Udemy" "A fresh way of teaching AngularJS" "One of the best courses on Udemy that i took if not the best" "Best teacher I have had on the internet by far" "I...have taken lots of angular courses and I think this is the best one so far" "The best teaching style I've seen so far"*
+## Contact
 
-If you are new to AngularJS, or if you've been working to learn it but sometimes feel like you still don't quite 'get it', this is the AngularJS course for you! **To learn AngularJS you have to understand it**.
+[![Gmail][gmail-shield]][gmail-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Github][github-shield]][github-url]
+[![Udemy][udemy-shield]][udemy-url]
+[![Instagram][instagram-shield]][instagram-url]
+[![Twitter][twitter-shield]][twitter-url]
 
-I've built the course that I would have wanted to take when I was learning AngularJS. A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them.
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-In this course you will:
+<!-- ALIES README -->
 
-- **Learn how AngularJS works, covering subjects like directives, dependency injection, two way data binding, the digest loop, watchers, and more.**
-- **Learn fundamental Javascript and HTML principles that are used by AngularJS, such as custom attributes, loosely typed arrays, the hash, and the event loop.**
-- **Code custom services.**
-- **Design custom directives, understanding concepts like compile, link, and scope.**
-- **Build a single page application using AngularJS.**
-- **Keep up with the latest on the next version of AngularJS 2.0!**
+[course-url]: https://udemy.com/course/learn-angularjs/
+[instructor-url]: https://udemy.com/user/anthonypalicea/
+[certificate-url]: https://ude.my/UC-Q7I5P61P
+<!-- CONTACT SHIELDS -->
 
-AngularJS doesn't have to be hard to learn. The biggest mistake most coding tutorials make is expecting someone to learn simply by imitating others' code. Real world situations are never exactly like the tutorial.
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-white.svg?logo=linkedin&colorB=0077B5&logoColor=white
+[linkedin-url]: https://linkedin.com/in/nitaicharan/
+[gmail-shield]: https://img.shields.io/badge/-Gmail-black.svg?logo=gmail&colorB=D14836&logoColor=white
+[gmail-url]: mailto:niaicharan@gmail.com?subject=It%20comes%20from%20Github%20profile
+[github-shield]: https://img.shields.io/badge/-Github-black.svg?logo=github&colorB=181717&logoColor=white
+[github-url]: https://github.com/nitaicharan
+[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?logo=instagram&colorB=EC5252&logoColor=white
+[instagram-url]: https://instagram.com/nitaicharan/?hl=pt-br
+[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?logo=twitter&colorB=1DA1F2&logoColor=white
+[twitter-url]: https://twitter.com/nitaicharan1
+[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?logo=facebook&colorB=4172B8&logoColor=white
+[facebook-url]: https://facebook.com/NitaiCharan1
+[udemy-shield]: https://img.shields.io/badge/-Udemy-black.svg?logo=udemy&colorB=EC5252&logoColor=white
+[udemy-url]: https://udemy.com/user/nitai-charan/
+[hackerrank-shield]: https://img.shields.io/badge/-HackerRank-white.svg?logo=hackerrank&colorB=2EC866&logoColor=white
+[hackerrank-url]: https://www.hackerrank.com/nitaicharan
 
-I believe the best way to learn is to understand how a tool works and what it does for you, look at examples, and then try it yourself. That's how this course is built, with the goal to help you both **learn** and **understand** AngularJS.
+<!-- PROJECT SHIELDS -->
 
-Note: In this course you'll also get **downloadable source code**. You will often be provided with 'starter' code, giving you the base for you to start writing your code, and 'finished' code to compare your code to.
-
-### Para quem é este curso:
-- Web developers and designers looking to learn AngularJS
-- Those who have researched AngularJS but still find it hard to understand
-- Developers and designers who have used jQuery but are tired of doing everything manually
-
+[html5-shield]: https://img.shields.io/badge/-HTML5-black.svg?logo=html5&colorB=E34F26&logoColor=white
+[css3-shield]: https://img.shields.io/badge/-CSS3-black.svg?logo=css3&colorB=1572B6&logoColor=white
+[sass-shield]: https://img.shields.io/badge/-SASS-black.svg?logo=sass&colorB=CC6699&logoColor=white
+[angular-shield]: https://img.shields.io/badge/-Angular-black.svg?logo=angular&colorB=DD0031&logoColor=white
+[java-shield]: https://img.shields.io/badge/-Java-black.svg?logoColor=white&logo=java&&colorB=007396
+[javascript-shield]: https://img.shields.io/badge/-JavaScript-black.svg?logoColor=white&logo=javascript&&colorB=F7DF1E
+[typescript-shield]: https://img.shields.io/badge/-TypeScript-black.svg?logoColor=white&logo=typescript&&colorB=007ACC
+[react-shield]: https://img.shields.io/badge/-React-black.svg?logoColor=white&logo=react&colorB=61DAFB
+[jquery-shield]: https://img.shields.io/badge/-jQuery-white.svg?logo=jquery&colorB=0769AD&logoColor=white
+[spring-shield]: https://img.shields.io/badge/-Spring-white.svg?logo=spring&colorB=6DB33F&logoColor=white
+[flutter-shield]: https://img.shields.io/badge/-Flutter-white.svg?logo=flutter&logoColor=white&colorB=02569B
+[android-shield]: https://img.shields.io/badge/-Android-white.svg?logo=android&logoColor=white&colorB=3DDC84
+[apple-shield]: https://img.shields.io/badge/-Apple-white.svg?logo=apple&logoColor=white&colorB=999999
